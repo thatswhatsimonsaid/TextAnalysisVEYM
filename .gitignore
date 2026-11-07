@@ -1,0 +1,19 @@
+# TextAnalysisVEYM .gitignore
+
+# Confidential data (never ever evaahhhhhh commit)
+Data/*
+
+# Results (for now)
+Results/*
+
+# Local working files
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.log
+*.tar.gz
+*.zip
